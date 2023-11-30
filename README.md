@@ -1,1 +1,1 @@
-# restaurant-finder
+# place-finder
